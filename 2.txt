@@ -7,3 +7,17 @@
 	....second code
 
 }
+
+
+		3.txt
+	--------------------
+
+{
+
+  ...... third code
+  ...... third code
+  ...... third code
+  ...... third code
+
+
+}
